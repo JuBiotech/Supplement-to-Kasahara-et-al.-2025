@@ -2,8 +2,7 @@
 This repository provides microscopy image analysis to reproduce the reported data in our paper. 
 
 ## Microscopy Data
-Our microscopy data is available at:
-[https://zenodo.org/records/13982747](url)
+Our microscopy data is available [here](https://zenodo.org/records/13982747).
 
 ## Jupyter Notebook
 Four notebooks are uploaded. The Notebooks are designed to analyze cell growth under constant or oscillating oxygen environments. 
